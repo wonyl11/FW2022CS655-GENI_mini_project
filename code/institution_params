@@ -1,0 +1,7 @@
+{
+    "paramHOST": "127.0.0.1",
+    "paramPORT": 50001,
+    "NUM_INSTITUTIONS": 3,
+    "INSTITUTION_ID": 0,
+    "clientPORT": 50000
+}
