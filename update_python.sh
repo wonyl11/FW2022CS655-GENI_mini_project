@@ -19,3 +19,4 @@ update-alternatives --install /usr/bin/python3 python3 /usr/bin/python3.10 2
 sudo apt-get remove --purge python-pip
 apt install python3-pip
 pip3 install -r requirements.txt
+pip3 install protobuf==3.20.*
