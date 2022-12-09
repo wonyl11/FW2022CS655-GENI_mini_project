@@ -1,5 +1,5 @@
 {
-    "paramHOST": "127.0.0.1",
+    "paramHOST": "10.10.5.2",
     "paramPORT": 50001,
     "NUM_INSTITUTIONS": 3,
     "INSTITUTION_ID": 0,
