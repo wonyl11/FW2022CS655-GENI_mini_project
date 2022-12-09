@@ -1,7 +1,0 @@
-{
-    "HOST": "127.0.0.1",
-    "PORT": 50000,
-    "NUM_INSTITUTIONS": 3,
-    "INSTITUTION_ID": 0,
-    "CLIENT_ID": 0
-}
