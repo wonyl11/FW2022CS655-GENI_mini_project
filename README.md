@@ -8,7 +8,7 @@ This repository is for the CS655 class project.
 	- wget https://raw.githubusercontent.com/wonyl11/FW2022CS655-GENI_mini_project/main/update_python.sh
 	- chmod 755 update_python.sh
 	- sudo ./update_python.sh
-* the parameter specifications (json formats) need to be updated if you are using a fresh slice.
+* the parameter specifications (json formats) need to be updated (HOST) if you are using a fresh slice.
 
 
 ### Descriptions
