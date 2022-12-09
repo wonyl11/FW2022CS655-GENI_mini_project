@@ -3,6 +3,16 @@
 
 This repository is for the CS655 class project. 
 
+### Usage
+* execute the following command
+ - wget https://raw.githubusercontent.com/wonyl11/FW2022CS655-GENI_mini_project/main/update_python.sh
+ - chmod 755 update_python.sh
+ - sudo ./update_python.sh
+* the parameter specifications (json formats) need to be updated if you are using a fresh slice.
+
+
+### Descriptions
+
 * Client
   - The client sends a single image to institution server at a time.
   - The client receives the inference result from the institution server of the sent image.
